@@ -1,0 +1,3 @@
+# Learn C The Hard Way
+
+Exercises from the course...
